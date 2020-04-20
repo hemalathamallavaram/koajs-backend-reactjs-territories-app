@@ -1,0 +1,3 @@
+require('./article');
+require('./territory');
+
